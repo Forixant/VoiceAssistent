@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_std">8dp</dimen>
+    <dimen name="magrin_zero">0dp</dimen>
+    <dimen name="chat_tsize">18sp</dimen>
+</resources>
